@@ -9,3 +9,6 @@ This is a mock Flask application designed for demonstration purposes. It include
 - **Redirect on Success**: After successful form submissions, users are redirected to a home page.
 - **Basic Form Validation**: Ensures that required fields are not left blank before submission.
 
+## Setup
+- pip install flask
+- then run python app.py
