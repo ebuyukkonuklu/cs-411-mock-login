@@ -1,4 +1,4 @@
-# Flask Emergency Registration App
+# Flask Open Hospital Mock Login Page
 
 This is a mock Flask application designed for demonstration purposes. It includes a login page and an emergency registration page. Users can enter their credentials or emergency information, and upon successful submission, they will be redirected to a home page.
 
